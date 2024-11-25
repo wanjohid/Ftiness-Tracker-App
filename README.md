@@ -25,6 +25,7 @@ The Fitness Tracker Application is a React-based web application designed to hel
 - **Charts**: Visual representation of fitness data using line and doughnut charts.
 
 ## Screenshots
+![FTHOME](https://github.com/user-attachments/assets/09216b10-527a-4e3b-ab16-9974c5c5d96f)
 
 ![Fitness Tracker Overview](./Screenshots/FTHOME.png)
 
